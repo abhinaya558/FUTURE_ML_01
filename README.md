@@ -1,21 +1,45 @@
-# FUTURE_ML_01
-# Sales Forecasting Project
 
-## Overview
-This project predicts future sales using Machine Learning techniques.
+FUTURE_ML_01
 
-## Dataset
-Sample Superstore Dataset
+Machine Learning Internship Projects - Future Interns 2026
 
-## Tools Used
+Task 1: Sales Forecasting
+
+- Predicted future sales using historical data
+- Data preprocessing and visualization
+- Forecast generation and evaluation
+- Business insights using MAE and RMSE
+
+Task 2: Support Ticket Classification
+
+- NLP-based ticket classification
+- Text preprocessing and TF-IDF vectorization
+- Priority assignment system
+- Ticket categorization and evaluation
+
+Task 3: Resume Screening System
+
+- Candidate ranking and screening
+- Hiring prediction using Machine Learning
+- Skill gap analysis
+- Model Accuracy: 70.64%
+
+Tools Used
+
 - Python
 - Pandas
 - NumPy
-- Matplotlib
 - Scikit-learn
+- Matplotlib
+- Google Colab
 
-## Project File
-Sales_Forecasting.ipynb
+Repository Files
 
-## Author
+- Sales_Forecasting.ipynb
+- Support_Ticket_Classification.ipynb
+- Resume_Screening_System.ipynb
+
+Author
+
 Abhinaya Bongani
+Future Interns ML Internship 2026
